@@ -1,0 +1,22 @@
+{
+  "name": "akyuu-adapter-ons",
+  "version": "1.0.0",
+  "description": "akyuu adapter of ons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akyuujs/akyuu-adapter-ons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akyuujs/akyuu-adapter-ons/issues"
+  },
+  "homepage": "https://github.com/akyuujs/akyuu-adapter-ons#readme",
+  "dependencies": {
+    "ons": "^4.1.0"
+  }
+}
